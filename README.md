@@ -1,3 +1,5 @@
+Introduction to Amazon Bedrock
+
 Amazon Bedrock is a fully managed service that offers leading foundation models (FMs) and a set of tools to quickly build and scale generative AI applications. The service also helps ensure privacy and security.
 
 With agents for Amazon Bedrock (preview), you can automate complex business tasks and orchestrations using fully managed agents. With knowledge bases for Amazon Bedrock (preview), you can integrate company data with the query so the responses from the FMs are specific to your domain and organization.
