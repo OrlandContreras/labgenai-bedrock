@@ -40,4 +40,4 @@ responses from the FMs are specific to your domain and organization.
       S3 bucket path to the Amazon Bedrock fine-tuning job.
       The fine-tuning can be done using the Amazon Bedrock console or API.
 
-See also: [Amazon Bedrock](https://docs.aws.amazon.com/bedrock/latest/APIReference/welcome.html)
+See also: [Amazon Bedrock API Reference](https://docs.aws.amazon.com/bedrock/latest/APIReference/welcome.html)
