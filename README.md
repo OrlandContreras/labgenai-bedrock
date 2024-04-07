@@ -1,4 +1,4 @@
-Introduction to Amazon Bedrock
+# Introduction to Amazon Bedrock
 
 Amazon Bedrock is a fully managed service that offers leading foundation models (FMs) and a set of tools to quickly build and scale generative AI applications. The service also helps ensure privacy and security.
 
