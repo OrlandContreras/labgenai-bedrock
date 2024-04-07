@@ -2,7 +2,6 @@ import boto3
 import botocore
 import json
 from langchain.llms.bedrock import Bedrock
-from IPython.display import display_markdown, Markdown, clear_output
 from labutils import print_ww
 
 boto3_bedrock = boto3.client("bedrock-runtime")
